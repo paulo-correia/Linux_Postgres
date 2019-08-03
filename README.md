@@ -1,6 +1,6 @@
 # Postgres
 
-![](http://)
+![](https://github.com/paulo-correia/Linux_Postgres/blob/master/150px-Postgresql_elephant.svg.png)
 
 PostgreSQL é um sistema gerenciador de banco de dados objeto relacional (SGBDOR), desenvolvido como projeto de código aberto.
 
