@@ -82,7 +82,7 @@ renomeie o arquivo phpPgAdmin-5.1.tar.gz?download com o comando:
 
 Extraia o conteúdo do arquivo com o comando:
 
- `>tar -xvzf phpPgAdmin-5.1.tar.gz`
+ `tar -xvzf phpPgAdmin-5.1.tar.gz`
 
 Renomeie a pasta phpPgAdmin-5.1 com o comando:
 
